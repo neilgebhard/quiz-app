@@ -1,6 +1,6 @@
 # Quiz App
 
-A quiz app
+A quiz app made using the Trivia API
 
 ### Libraries
 
